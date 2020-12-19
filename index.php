@@ -1,5 +1,5 @@
 <?php 
 
-include_once('aprillia/index.html');
+include(_DIR_ . '/tweets.php');
 
 ?>
